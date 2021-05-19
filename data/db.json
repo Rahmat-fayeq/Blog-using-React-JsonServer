@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My Frist Blog",
+      "body": "It is the body of the first blog !",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "My Second Blog",
+      "body": "It is the body of the second blog !",
+      "author": "Ahmad",
+      "id": 2
+    },
+    {
+      "title": "My Third Post",
+      "body": "This is the 3th post ",
+      "author": "Rahmat",
+      "id": 3
+    }
+  ]
+}
